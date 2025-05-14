@@ -1,3 +1,2 @@
-## 🦖 Want to play something?
-
-[![Play Dino Game](https://media.giphy.com/media/dVuyBg1QzGqWs/giphy.gif)](https://chromedino.com/)
+## 🦖 Dino Game Demo  
+[![Play Dino](https://media.giphy.com/media/.../giphy.gif)](https://ваш-username.github.io/репозиторий/)  
